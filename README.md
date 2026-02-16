@@ -1,1 +1,1 @@
-# surgical-instrument-tracking
+# Surgical Instrument Tracking
